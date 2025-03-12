@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AI-Driven Financial Recovery and Debt Optimization System**
 
-- 🌱 I’m currently learning **Flask , Django**
+- 🌱 I’m currently learning **Flask , PyTorch , TensorFlow , Scikit-learn**
 
 - 💬 Ask me about **MERN Stack**
 
