@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Flask , PyTorch , TensorFlow , Scikit-learn**
 
-- 👨‍💻 All of my projects are available at [http://vivek-m-portfolio.vercel.app](http://vivek-m-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [Vivek M Portfolio](http://vivek-m-portfolio.vercel.app)
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **vivekmogra07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15BN_SyUXo_Yt-y0B6856TPsgvgaQ87AR/view?usp=sharing](https://drive.google.com/file/d/15BN_SyUXo_Yt-y0B6856TPsgvgaQ87AR/view?usp=sharing)
+- 📄 Know about my experiences [Vivek M Resume](https://drive.google.com/file/d/15BN_SyUXo_Yt-y0B6856TPsgvgaQ87AR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
